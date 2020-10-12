@@ -20,7 +20,7 @@ FrontEnd | BackEnd | DevOps
 
 ## Easy Checkout of my public Project's: ##
 
-Here's my personal projects, where I'm working on implementations of Architeture, Best Practices and Development concepts, feel free to take a look, it wont bite!
+Here's my personal projects, where I'm working on implementations of Architecture, Best Practices and Development concepts, feel free to take a look, it wont bite!
 ~~at least I hope not~~:skull_and_crossbones:	
 
 > **POC BackEnd:** https://github.com/felipenanes/testesoft
@@ -48,8 +48,6 @@ Here's my personal projects, where I'm working on implementations of Architeture
 - Java Prático: Lambdas Streams e os novos recursos da linguagem :open_book:	
 - Clean Architecture; :open_book:	
 - Vire o jogo com Spring Framework; :open_book:	
-
-
 
 
 <!--
