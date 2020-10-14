@@ -35,9 +35,9 @@ Here's my personal projects, where I'm working on implementations of Architectur
 - [x] Scrum Professional Certification - *Avanade 2019*
 - [x] Two more Scrum Certifications - *Avanade 2019*
 - [x] Experience in Java Development - *Avanade 2019*
-- [ ] Advanced Experience in Java Backend Development - *In Progress*
+- [x] Improving Coding Skills via Challange WebSites: *in Progress - Lvl 5 <img src="https://www.kindpng.com/picc/b/792/7929448.png" height="20"/>  Java at HackerRank* 
+- [x] Advanced Experience in Java Backend Development - *Java Skills (Basic) at HackerRank*
 - [ ] At least one Java Certification: *in Progress*
-- [ ] Improving Coding Skills via Challange WebSites: *in Progress - Lvl 5 <img src="https://www.kindpng.com/picc/b/792/7929448.png" height="20"/>  Java at HackerRank* 
 - [ ] At least 2 Events Call For Pappers Approved Submitions/Year - *2020: 0/2*
 - [ ] At least 5 Event Participation/Year - *2020: 3/5*
 
