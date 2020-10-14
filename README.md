@@ -37,7 +37,7 @@ Here's my personal projects, where I'm working on implementations of Architectur
 - [x] Experience in Java Development - *Avanade 2019*
 - [ ] Advanced Experience in Java Backend Development - *In Progress*
 - [ ] At least one Java Certification: *in Progress*
-- [ ] Improving Coding Skills via Challange WebSites: *in Progress - Lvl 5 (Gold)  Java at HackerRank* ![]<img src="https://www.kindpng.com/picc/b/792/7929448.png" width="25"/>
+- [ ] Improving Coding Skills via Challange WebSites: *in Progress - Lvl 5 <img src="https://www.kindpng.com/picc/b/792/7929448.png" height="20"/>  Java at HackerRank* 
 - [ ] At least 2 Events Call For Pappers Approved Submitions/Year - *2020: 0/2*
 - [ ] At least 5 Event Participation/Year - *2020: 3/5*
 
