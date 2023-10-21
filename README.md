@@ -16,17 +16,8 @@ If you're here because I applied to your company ~~hire me now~~--:money_mouth_f
 
 FrontEnd | BackEnd | DevOps
 ------------ | ------------- |-----------
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="100"> <br> 
-<img src="https://www.bairesdev.com/wp-content/uploads//2022/06/Picture6-1.svg" width="80"> 
-<img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="55"> 
-| 
-<img src="https://img.icons8.com/color/452/spring-logo.png" width="70"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="50"> 
-<img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-2.png" height="50"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="52"> 
-| 
-<img src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" height="80"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="80"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png" width="100"> <br> <img src="https://www.bairesdev.com/wp-content/uploads//2022/06/Picture6-1.svg" width="80"> <img src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" width="55"> | <img src="https://img.icons8.com/color/452/spring-logo.png" width="70"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" height="50"> <img src="https://logodownload.org/wp-content/uploads/2016/10/php-logo-2.png" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" height="52"> | 
+<img src="https://cdn.iconscout.com/icon/free/png-512/docker-226091.png" height="80"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="80"> 
 
 ## Easy Checkout of my public Project's: ##
 
